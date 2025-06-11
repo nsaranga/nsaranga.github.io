@@ -21,11 +21,11 @@ To answer those questions I started with the following assumptions. Professional
 
 2. If the batter attempts an aggressive shot, and the ball moves in an unexpected way late, and they miss the ball completely, that is also brute luck.
 
-3. If the batter attempts an aggressive shot and the ball does not move noticeably and the batter edges or miscues it, that is option luck.
+3. If the batter attempts an aggressive shot and the ball does not move noticeably and the batter misses, edges or miscues it, that is option luck.
 
 4. If the batter attempts an aggressive shot and the ball moves so they edge or miscue it then that is mixed luck (ie. mix of brute and option luck).
 
-When the dismissals are quantified we see that around 70% of the dismissals were the result of brute luck and mixed luck, and therefore bowling dependent. Only around 29% were primarily the result of factors the batters could control and therefore bowling independent. Without data from other series to compare it is hard to know for certain if this is significantly higher than average. On the face of it though, it does appear to show that the series was largely played on bowler friendly pitchess.
+When the dismissals are quantified we see that around 70% of the dismissals were the result of brute luck and mixed luck, and therefore bowling dependent. Only around 29% were primarily the result of factors the batters could control and therefore bowling independent. Without data from other series to compare it is hard to know for certain if this is significantly higher than average. On the face of it though, it does appear to show that the series was largely played on bowler friendly pitches.
 ![table1](/assets/table1.png){:style="text-align:center;"}
 
 One thing to note is that the above includes bowlers and their batting, which might skew the nature of the dismissals. When we look at the dismissals only for batters and all rounders, bowling dependent dismissals are roughly similar for Australia and India. This probably speaks to the jeopardy that batters from both teams faced, suggesting that both teams possessed reasonably good bowling attacks. However, India’s all rounders appear to have played in a more expansive way with around 38.9% of dismissals being bowling independent while no Australian all round was dismissed in that way. This is likely due to India playing at least two all rounders in four of the five matches, while Australia only ever played one.
