@@ -2,7 +2,7 @@
 layout: post
 title: What is a good length for bowlers looking for seam movement?
 date: 2025-07-18
-categories: philosophy
+categories: cricket
 author: Saranga Sudarshan
 summary: Looking into how a bowler's speed, pitch character, and angles of deviation on offer affect seam bowling.
 image: /assets/rainforest.jpg
@@ -69,4 +69,3 @@ What this all teaches us is that there really is no such thing as the good lengt
 [^8]: See https://x.com/cricvizanalyst/status/1672918851397328908
 [^9]: See https://cricviz.com/mohammad-abbas-the-english-seam-bowler-they-never-had/
 [^10]: See https://www.reddit.com/r/Cricket/comments/nssdd7/seam_movement_on_day_1_and_2_since_2018_credit/
-[^11]: B.R. Ambedkar, The Annihilation of Caste, 3.11
