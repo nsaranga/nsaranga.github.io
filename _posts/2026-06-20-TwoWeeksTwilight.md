@@ -1,0 +1,57 @@
+---
+layout: post
+title: Two Weeks Twilight
+date: 2026-06-20
+categories: china
+author: Saranga Sudarshan
+summary: Reflections on a first visit to China
+image: /assets/rainforest.jpg
+---
+Guangzhou is misty on a May morning. Driving on the endless motorways to Foshan you get the sense, coming from Australia, that you are traveling from the ends of things to the origins of things. The manner of the buildings and their colours tell us things are produced here and consumed elsewhere. It is not, as you might see in other countries, a sense of chaos or open buildings spilling their industries onto the street. It is an orderliness that conveys a seriousness and determination in the cleanliness of the footpaths, and the scale of the rail lines and high voltage electricity transmission towers.
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image1.jpg" alt="image"/>
+</figure> 
+
+It has almost become a cultural meme in some circles that ‘China is living in the future’. That is not the sense I got. It might seem like that in Shanghai or Chongqing, but in an industrial city like Foshan it is what I imagine postwar European economies must have seemed like. It has a certain roughness to the urban landscape, but clearly developing rapidly with new urban infrastructure. There is also a clear stratification of the working class from labourers, factory workers, to artisans, professionals and managers. One also sees that China is making the same mistakes that postwar Europe made in urban design with trying to create dense cities with cars as the main form of transport. Whilst bicycling and its associated infrastructure is still far ahead of many places, you get the sense it is receding and hanging on rather than being prioritised. Footpaths and pedestrian access are uneven as you are able to see both broad safe footpaths and encroachment by utilities and parking on the same road within a few blocks.
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image2.jpg" alt="image"/>
+</figure> 
+
+Despite the signs of development, you can see the slowing economic growth rates in Foshan; pre-2020 GDP growth rates of 6-7% have declined to 4-5% in the last few years. Huge shopping centre style malls designed to consolidate much of the home building wares manufactured in and around Foshan sit empty. The seemingly endless furniture bazaars while filled with display stock and attendants do not have the expected hum of negotiations and transactions. The desperation of the sales staff standing by the door trying to coax any passerby to come in is particularly touching. This recent piece in the [Wall Street Journal](https://www.wsj.com/world/asia/the-factory-town-known-as-chinas-furniture-capital-is-fighting-to-survive-0875bc99) highlighted the effect of the new US tariffs on Foshan. No doubt they have had an impact, but perhaps it is also just a weakening in international demand with a lack of domestic demand to compensate. The Chinese government has after all made boosting the country’s domestic consumption a priority in its most recent Five Year Plan.[^1]
+
+Guangzhou South Railway Station is immense. Its high arched skylight roof stretches almost half a kilometre over twelve platforms. It is a fitting entry into China’s now much vaunted high-speed rail network. The train is clean and spacious. The option of a squat toilet is interesting and something I did not expect. On the way to Beijing at 350km/h the countryside in the south is mostly hills and then valleys with a clump of houses and their surrounding crop fields. The lush greenery that surrounds these villages reminds you of where the pre-industrial wealth came from. Often you will see a field or paddock with a gravestone in the centre of an untilled patch. Between these rural scenes, the train stops at cities where the first sign always seems to be a row of identical high-rise residential buildings. That is a sign of China’s development in as much as high-speed rail.
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image3.jpg" alt="image"/>
+</figure> 
+
+Entering Beijing the clouds are low and the rain heavy. Beijing West Railway Station is much older than Guangzhou’s, it is stone and concrete, narrower passage ways, and more crowded. There is no shelter outside from the pelting downpour. Order turns into chaos at the exits; shouting, loud conversations on speakerphones, umbrella hawkers, taxi drivers trying to pick up fares. There is a flash of the developing world.
+
+Despite all this, Beijing is an interesting city because it is a city of China’s past, not LED lighting and drone shows. Museums in capital cities are usually displays of how a country wants to see itself and the austere gigantic National Museum in Beijing is no different. Perhaps in this case it is more how the Chinese Communist Party wishes the country to be seen and there are plenty of modern exhibits about the revolution for that. But even so the ancient Chinese section is long and packed with people. The array of excavated and preserved artefacts is truly wonderful. Interestingly, while the Unequal Treaties, the Opium Wars and other events in the “Century of Humiliation” are mentioned they are not the emphasis. Rather than a sense of grievance, the impression one gets by the exhibit is to convey a sense of confidence and the idea that China has a deep civilisational past of which the current regime is an extension.
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image4.jpg" alt="image"/>
+</figure> 
+
+The 15th century Palace Museum or as it is more commonly known, The Forbidden City, confronts you with its physical scale and the grandeur of its gates, halls and palaces. From the Meridian Gate, to the Gate and Hall of Supreme Harmony, and then to the Palace of Heavenly Purity, you get the sense that whoever rules China rules it with a self-assuredness that does not allow for any humility. But despite this there is an eerie barrenness to the complex. What was once a place of seclusion is hit by the battery of a thousand soles. Its collection of 18th and 19th century clocks from across Europe and the vast collection of jade and porcelain are astonishing and well preserved. But ironically it is precisely this preservation of the complex as a museum for the people that signals the government’s intentions: nothing like this will come alive in China again. You get the same sense in The Summer Palace with its vast garden complex, lake, causeways, ornate bridges, pavilions, and numerous palaces. What was once a retreat is now essentially a public park. Religious buildings are not spared from this ironic preservation and reuse by the public. The confucian Temple of Heaven sounds grandiose and and its circular altars and courtyards are supposed to project ideas about the cosmos, but at its core the grandest structure is one acutely human and material: The Hall of Prayer for Good Harvests. What could be more important in a pre-industrial economy and less important for China today?
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image5.jpg" alt="image"/>
+</figure> 
+
+Traveling around Beijing you can see the mistakes of car-oriented design; large ring roads six lanes wide dividing neighbourhoods. Going anywhere in the city by car or taxi outside midday is a slow crawl to your destination. Despite this, the cycling culture is still strong. You see locals of a diverse demographic range riding around. Of course it is in tension with the mass of motor vehicles, but there are segregated bicycle lanes on almost every main road forming an extensive network, and large footpaths with designated bicycle parking. This is far more advanced than most developed countries.
+
+Culture also matters of course. Unlike in Australia, car drivers in Beijing are not filled with hate for cyclists. That and separate bicycle lanes mean no need for helmets. The reasons for these differences are many, but most fundamentally in Australia successive governments have decided that allowing people to lead healthy lives is not a priority, rather intervening when they get sick is the only role for state institutions. On the whole the bicycle lanes in Beijing have a no-nonsense utilitarian feel to them. They are segregated on major roads, and simply an entire painted lane on smaller roads. There has clearly been a push to create a network that is actually usable before constructing the perfect solution everywhere. There is also no compulsion to wear helmets (which might explain driving culture as well) and no need as far as I could observe for e-bikes.
+
+And yet, travelling by metro, or rail around Beijing, you see and feel the control of the government more than you expect. Entering any metro station requires passing a security checkpoint. Entering and exiting any railway station requires a security check with your passport as a foreigner. Tiananmen Square and its surrounds cannot be traversed freely. They are criss-crossed with security checkpoints and barriers where your passport is checked every time. This is merely part of the larger pattern whereby almost everything a foreigner does requires their passport for verification, from buying tickets to historical sites, museums, trains, or signing up to Alipay to be able to pay for anything. Moreover, much of the security you pass rarely looks intimidating or menacing; it appears more like a jobs program for those just out of high school.
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image6.jpg" alt="image"/>
+</figure> 
+
+The deep control of the state also has other effects. The control over the media whereby there is very little english language media has I think exacerbated the language barrier. English language proficiency even in the cities is extremely poor. Although most people are happy to use translation apps, one does wonder how this will affect China’s potential to grow further in its economic and cultural influence. Perhaps like France, Italy or Spain, it won’t matter much. They might be content with having limited cultural influence beyond east asia.
+
+I think China’s developmental daybreak will coincide with it solving the potable water problem. Immediate access to clean safe drinking water from any tap is a sign of development most people from developed countries overlook. That it is not available in hotels in the centre of Beijing shows how far China needs to go. Once it is achieved, it will mean that public and private investment in the water infrastructure will have been solved, it will mean private incomes will have risen to such a level that the private infrastructure can be maintained, and it will mean that clean water sources will have been secured from industrial and residential pollution. For now China is not there yet, but it is trying[^2] and I hope most of us are awake and watching when it is.
+<figure style="text-align:center;">
+<img src="/assets/TwoWeeksTwilight/image7.jpg" alt="image"/>
+</figure> 
+
+[^1]:  See https://merics.org/en/comment/deciphering-15th-five-year-plan, and https://www.aspistrategist.org.au/chinas-five-year-plan-confronts-economic-reform-amid-geopolitical-competition/
+
+[^2]:  See https://pmc.ncbi.nlm.nih.gov/articles/PMC8430420/#s04 from 2020 for some measures the government is taking.
